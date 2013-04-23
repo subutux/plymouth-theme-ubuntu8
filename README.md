@@ -16,10 +16,12 @@ Logo choosing
 =============
 
 You can choose between 2 different logo's to use.
-![logo1][logo.png] default
-![logo2][logo_other.png] more windows 8 like
 
-To change to the second logo, rename logo_other.png to logo.png and that's it!
+![logo1](logo.png) default
+
+![logo2](logo_other.png) more windows 8 like
+
+To change to the second logo, rename `logo_other.png` to `logo.png` and that's it!
 
 screenshot
 ==========

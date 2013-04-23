@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Ubuntu 8
+Description=Ubuntu theme based on windows 8 boot
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/ubuntu8
+ScriptFile=/lib/plymouth/themes/ubuntu8/ubuntu8.script
+
+

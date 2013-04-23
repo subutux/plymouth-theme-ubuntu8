@@ -12,3 +12,6 @@ sudo update-alternatives --install /lib/plymouth/themes/default.plymouth default
 sudo update-alternatives --config default.plymouth
 sudo update-initramfs -u
 ```
+screenshot
+==========
+![screebshot](screenshot.png)
